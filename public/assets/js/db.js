@@ -6,7 +6,7 @@ const indexedDB =
 	window.shimIndexedDB;
 
 let db;
-const request = indexedDB.open("budget", 1);
+const request = indexedDB.open("budget-tracker", 1);
 
 request.onupgradeneeded = (event) => {
 	event.target.result.createObjectStore("pending", {
