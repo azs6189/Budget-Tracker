@@ -34,4 +34,4 @@ From either the app deployed on Heroku or your local host, you will first see th
 ![homepage](/public/assets/images/homepage.png)
 
 Enter the "Name of transaction" and "Transaction amount". Then click on either button, "+ Add Funds" or "-Subtract Funds"
-![transactions](/public/assets/images/transactions.png).
+![transactions](/public/assets/images/transactions.png)
